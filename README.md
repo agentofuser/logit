@@ -2,6 +2,10 @@
 
 <https://twitter.com/agentofuser/status/1168593180863975426>
 
+This is my feed:
+
+<https://github.com/agentofuser/logit/commits/agentofuser>
+
 ```
 To get started:
 
