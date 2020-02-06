@@ -1,14 +1,21 @@
 # logit
 
+## Origin story
+
 <https://twitter.com/agentofuser/status/1168593180863975426>
 
-This is my feed:
+## @agentofuser's feed
 
-<https://github.com/agentofuser/logit/commits/agentofuser>
+- Web: <https://github.com/agentofuser/logit/commits/agentofuser>
+- RSS: <https://github.com/agentofuser/logit/commits/agentofuser.atom>
+
+## Feeds I know
+
+- @afincato: <https://github.com/afincato/logit>
+
+## Join the LogitVerse
 
 ```
-To get started:
-
 mkdir logit
 git init
 git commit --allow-empty -m "Hello world"
@@ -17,5 +24,5 @@ git push --set-upstream origin master
 # optional: follow me ;)
 git remote add agentofuser https://github.com/agentofuser/logit.git
 git fetch agentofuser
-git log agentofuser/main
+git log agentofuser/agentofuser
 ```
