@@ -26,3 +26,8 @@ git remote add agentofuser https://git.sr.ht/~agentofuser/logit
 git fetch agentofuser
 git log agentofuser/agentofuser
 ```
+
+## License
+
+Posts and documentation are under CC-BY-SA. For a copy of the license, please
+see the COPYING file under the docs branch.
